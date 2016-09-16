@@ -1,0 +1,14 @@
+{
+	"category" : "SmallLine-Errors",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 9/5/2016 15:38",
+	"instvars" : [
+		 ],
+	"name" : "SLError",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }

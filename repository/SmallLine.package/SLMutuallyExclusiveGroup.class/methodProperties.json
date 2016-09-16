@@ -1,0 +1,15 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"accept:" : "JulienDelplanque 9/3/2016 00:12",
+		"elements" : "JulienDelplanque 9/3/2016 00:00",
+		"elements:" : "JulienDelplanque 9/3/2016 00:00",
+		"initialize" : "JulienDelplanque 9/3/2016 00:03",
+		"isMutuallyExclusiveGroup" : "JulienDelplanque 9/6/2016 16:05",
+		"isOptional" : "JulienDelplanque 9/3/2016 00:18",
+		"onlyContains:" : "JulienDelplanque 9/6/2016 07:16",
+		"onlyContainsOptions" : "JulienDelplanque 9/6/2016 06:42",
+		"optional" : "JulienDelplanque 9/3/2016 00:04",
+		"required" : "JulienDelplanque 9/3/2016 00:04",
+		"|" : "JulienDelplanque 9/6/2016 21:56" } }

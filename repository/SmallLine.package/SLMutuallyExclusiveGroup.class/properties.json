@@ -1,0 +1,15 @@
+{
+	"category" : "SmallLine-Descriptors",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 9/5/2016 15:36",
+	"instvars" : [
+		"elements",
+		"optional" ],
+	"name" : "SLMutuallyExclusiveGroup",
+	"pools" : [
+		 ],
+	"super" : "SLElement",
+	"type" : "normal" }

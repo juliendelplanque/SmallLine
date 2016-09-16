@@ -1,0 +1,3 @@
+*SmallLine
+isElement
+	^ false

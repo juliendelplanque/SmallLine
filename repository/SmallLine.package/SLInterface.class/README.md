@@ -1,0 +1,1 @@
+I am an command line interface, I hold usage patterns defined for the interface.

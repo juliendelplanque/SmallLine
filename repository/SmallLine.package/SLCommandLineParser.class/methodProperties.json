@@ -1,0 +1,20 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addArgument:withValue:" : "JulienDelplanque 9/6/2016 16:24",
+		"addOption:withValue:" : "JulienDelplanque 9/6/2016 06:58",
+		"cmdArguments:" : "JulienDelplanque 9/6/2016 07:01",
+		"initialize" : "JulienDelplanque 9/6/2016 06:57",
+		"options" : "JulienDelplanque 9/6/2016 16:37",
+		"parseLongOption:" : "JulienDelplanque 9/6/2016 21:04",
+		"parseLongOptionWithEqualSeparator:" : "JulienDelplanque 9/6/2016 21:04",
+		"parseLongOptionWithSpaceSeparator:" : "JulienDelplanque 9/6/2016 21:02",
+		"parseShortOption:" : "JulienDelplanque 9/6/2016 20:44",
+		"positionalArguments" : "JulienDelplanque 9/6/2016 16:37",
+		"visitSLCommand:" : "JulienDelplanque 9/6/2016 16:26",
+		"visitSLInterface:" : "JulienDelplanque 9/6/2016 06:55",
+		"visitSLMutuallyExclusiveGroup:" : "JulienDelplanque 9/6/2016 19:42",
+		"visitSLOption:" : "JulienDelplanque 9/6/2016 20:57",
+		"visitSLPositionalArgument:" : "JulienDelplanque 9/6/2016 16:30",
+		"visitSLUsagePattern:" : "JulienDelplanque 9/6/2016 20:31" } }

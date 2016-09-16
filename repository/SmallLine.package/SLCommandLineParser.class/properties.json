@@ -1,0 +1,17 @@
+{
+	"category" : "SmallLine-Visitors",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"positionalArguments",
+		"options",
+		"cmdArgumentsStream",
+		"otherElements" ],
+	"name" : "SLCommandLineParser",
+	"pools" : [
+		 ],
+	"super" : "SLAbstractVisitor",
+	"type" : "normal" }

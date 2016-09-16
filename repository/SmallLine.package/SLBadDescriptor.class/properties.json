@@ -1,0 +1,14 @@
+{
+	"category" : "SmallLine-Errors",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SLBadDescriptor",
+	"pools" : [
+		 ],
+	"super" : "SLError",
+	"type" : "normal" }

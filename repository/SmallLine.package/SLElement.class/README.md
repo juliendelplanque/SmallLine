@@ -1,0 +1,1 @@
+I am an abstract element for a usage pattern, I can be a command, a mutually exclusive group, an option or a positional argument. All these concepts are implemented by my subclasses.

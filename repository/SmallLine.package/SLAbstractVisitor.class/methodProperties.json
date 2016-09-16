@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"visitSLCommand:" : "JulienDelplanque 9/3/2016 00:13",
+		"visitSLInterface:" : "JulienDelplanque 9/3/2016 00:37",
+		"visitSLMutuallyExclusiveGroup:" : "JulienDelplanque 9/3/2016 00:12",
+		"visitSLOption:" : "JulienDelplanque 9/3/2016 00:11",
+		"visitSLPositionalArgument:" : "JulienDelplanque 9/5/2016 15:33",
+		"visitSLUsagePattern:" : "JulienDelplanque 9/3/2016 00:11" } }

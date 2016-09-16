@@ -1,0 +1,18 @@
+{
+	"category" : "SmallLine-Descriptors",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 9/5/2016 15:32",
+	"instvars" : [
+		"optionName",
+		"argumentName",
+		"aliases",
+		"description",
+		"optional" ],
+	"name" : "SLOption",
+	"pools" : [
+		 ],
+	"super" : "SLElement",
+	"type" : "normal" }

@@ -1,0 +1,3 @@
+visiting
+visitSLMutuallyExclusiveGroup: aSLMutuallyExclusiveGroup
+	^ self subclassResponsibility

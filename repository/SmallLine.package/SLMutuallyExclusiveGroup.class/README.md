@@ -1,0 +1,1 @@
+I represent a mutually exclusive group of elements. Only one of my element can appear in the usage pattern for wich I am defined.

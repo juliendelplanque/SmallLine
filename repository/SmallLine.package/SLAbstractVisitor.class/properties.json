@@ -1,0 +1,14 @@
+{
+	"category" : "SmallLine-Visitors",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 9/5/2016 15:50",
+	"instvars" : [
+		 ],
+	"name" : "SLAbstractVisitor",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

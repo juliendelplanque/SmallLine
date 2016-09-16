@@ -1,0 +1,14 @@
+{
+	"category" : "SmallLine-Descriptors",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 9/5/2016 15:37",
+	"instvars" : [
+		 ],
+	"name" : "SLElement",
+	"pools" : [
+		 ],
+	"super" : "SLDescriptor",
+	"type" : "normal" }

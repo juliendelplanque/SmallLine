@@ -1,0 +1,1 @@
+I am an abstract descriptor for any element of the command line interface.
