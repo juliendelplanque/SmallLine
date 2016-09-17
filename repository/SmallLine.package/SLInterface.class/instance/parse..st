@@ -7,5 +7,5 @@ parse: anArrayOfString
 					cmdArguments: anArrayOfString allButFirst;
 					yourself.
 	self accept: parser.
-	^ parser
+	^ parser configuration
 					

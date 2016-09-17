@@ -5,6 +5,7 @@
 		"addArgument:withValue:" : "JulienDelplanque 9/16/2016 23:12",
 		"addOption:withValue:" : "JulienDelplanque 9/16/2016 23:11",
 		"cmdArguments:" : "JulienDelplanque 9/6/2016 07:01",
+		"configuration" : "JulienDelplanque 9/17/2016 13:31",
 		"initialize" : "JulienDelplanque 9/16/2016 23:10",
 		"options" : "JulienDelplanque 9/17/2016 13:12",
 		"parseLongOption:" : "JulienDelplanque 9/6/2016 21:04",
@@ -12,9 +13,10 @@
 		"parseLongOptionWithSpaceSeparator:" : "JulienDelplanque 9/6/2016 21:02",
 		"parseShortOption:" : "JulienDelplanque 9/6/2016 20:44",
 		"positionalArguments" : "JulienDelplanque 9/17/2016 13:12",
+		"resetConfiguration" : "JulienDelplanque 9/17/2016 14:30",
 		"visitSLCommand:" : "JulienDelplanque 9/6/2016 16:26",
 		"visitSLInterface:" : "JulienDelplanque 9/16/2016 18:16",
 		"visitSLMutuallyExclusiveGroup:" : "JulienDelplanque 9/6/2016 19:42",
-		"visitSLOption:" : "JulienDelplanque 9/6/2016 20:57",
+		"visitSLOption:" : "JulienDelplanque 9/17/2016 13:50",
 		"visitSLPositionalArgument:" : "JulienDelplanque 9/6/2016 16:30",
-		"visitSLUsagePattern:" : "JulienDelplanque 9/6/2016 20:31" } }
+		"visitSLUsagePattern:" : "JulienDelplanque 9/17/2016 14:32" } }

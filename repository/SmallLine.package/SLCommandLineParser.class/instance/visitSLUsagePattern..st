@@ -1,6 +1,7 @@
 visiting
 visitSLUsagePattern: aSLUsagePattern
 	| slOptions |
+	self resetConfiguration.
 	slOptions := aSLUsagePattern optionsAndOptionsGroups.
 	otherElements := aSLUsagePattern notOptionsAndNotOptionsGroups readStream.
 	
