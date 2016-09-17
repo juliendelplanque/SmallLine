@@ -1,3 +1,3 @@
 accessing
 positionalArguments
-	^ positionalArguments
+	^ configuration positionalArguments

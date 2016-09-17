@@ -6,10 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"positionalArguments",
-		"options",
 		"cmdArgumentsStream",
-		"otherElements" ],
+		"otherElements",
+		"configuration" ],
 	"name" : "SLCommandLineParser",
 	"pools" : [
 		 ],

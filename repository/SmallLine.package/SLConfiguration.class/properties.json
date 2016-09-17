@@ -1,0 +1,15 @@
+{
+	"category" : "SmallLine-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 9/16/2016 22:36",
+	"instvars" : [
+		"positionalArguments",
+		"options" ],
+	"name" : "SLConfiguration",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

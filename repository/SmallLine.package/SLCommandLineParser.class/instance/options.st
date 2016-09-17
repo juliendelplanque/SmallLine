@@ -1,3 +1,3 @@
 accessing
 options
-	^ options
+	^ configuration options
