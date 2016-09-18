@@ -2,6 +2,7 @@
 	"class" : {
 		 },
 	"instance" : {
+		"initialize" : "JulienDelplanque 9/18/2016 20:06",
 		"isOptional" : "JulienDelplanque 9/18/2016 19:57",
 		"isRequired" : "JulienDelplanque 9/18/2016 19:57",
 		"optional" : "JulienDelplanque 9/18/2016 19:59",
