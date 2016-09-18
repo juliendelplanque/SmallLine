@@ -9,10 +9,9 @@
 		"optionName",
 		"argumentName",
 		"aliases",
-		"description",
-		"optional" ],
+		"description" ],
 	"name" : "SLOption",
 	"pools" : [
 		 ],
-	"super" : "SLElement",
+	"super" : "SLOptionalOrRequiredElement",
 	"type" : "normal" }

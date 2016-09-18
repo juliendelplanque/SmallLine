@@ -6,10 +6,9 @@
 		 ],
 	"commentStamp" : "JulienDelplanque 9/5/2016 15:36",
 	"instvars" : [
-		"elements",
-		"optional" ],
+		"elements" ],
 	"name" : "SLMutuallyExclusiveGroup",
 	"pools" : [
 		 ],
-	"super" : "SLElement",
+	"super" : "SLOptionalOrRequiredElement",
 	"type" : "normal" }
