@@ -1,7 +1,7 @@
 tests-api
 testRequired
 	| group result |
-	group := SLMutuallyExclusiveGroup new.
+	group := SLOptionalOrRequiredElement new.
 	
 	self assert: group isRequired.
 	group optional.

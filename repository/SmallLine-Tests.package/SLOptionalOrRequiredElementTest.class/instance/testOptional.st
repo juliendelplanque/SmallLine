@@ -1,7 +1,7 @@
 tests-api
 testOptional
 	| group result |
-	group := SLMutuallyExclusiveGroup new.
+	group := SLOptionalOrRequiredElement new.
 	
 	self deny: group isOptional.
 	result := group optional.
