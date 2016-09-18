@@ -1,4 +1,4 @@
-concatenation
+api
 , aSLElement
 	^ SLUsagePattern new
 		elements: { self . aSLElement } asOrderedCollection;

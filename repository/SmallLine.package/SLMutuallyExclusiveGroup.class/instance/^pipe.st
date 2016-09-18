@@ -1,4 +1,4 @@
-mutual exclusion
+api
 | aSLElement
 	aSLElement class = self class
 		ifFalse: [
