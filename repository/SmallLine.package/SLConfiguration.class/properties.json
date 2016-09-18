@@ -7,7 +7,8 @@
 	"commentStamp" : "JulienDelplanque 9/16/2016 22:36",
 	"instvars" : [
 		"positionalArguments",
-		"options" ],
+		"options",
+		"usagePattern" ],
 	"name" : "SLConfiguration",
 	"pools" : [
 		 ],

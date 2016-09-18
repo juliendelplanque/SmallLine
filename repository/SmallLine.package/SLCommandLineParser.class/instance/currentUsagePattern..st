@@ -1,0 +1,3 @@
+configuration
+currentUsagePattern: aSLUsagePattern
+	configuration usagePattern: aSLUsagePattern

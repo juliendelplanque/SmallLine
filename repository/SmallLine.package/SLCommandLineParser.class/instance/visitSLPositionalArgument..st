@@ -5,4 +5,4 @@ visitSLPositionalArgument: aSLArgument
 		withValue: cmdArgumentsStream next.
 	
 	(aSLArgument hasOneOrMoreArgument and: [ cmdArgumentsStream atEnd not ])
-		ifFalse: [ otherElements next ]
+		ifFalse: [ nonSlOptions next ]

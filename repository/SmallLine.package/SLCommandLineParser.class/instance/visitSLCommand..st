@@ -3,5 +3,5 @@ visitSLCommand: aSLCommand
 	cmdArgumentsStream peek = aSLCommand commandName
 		ifTrue: [ 
 			cmdArgumentsStream next.
-			otherElements next ]
+			nonSlOptions next ]
 		ifFalse: [ SLInvalidInput signal ]
