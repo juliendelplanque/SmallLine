@@ -1,5 +1,3 @@
 *SmallLine
 asCommand
-	^ SLCommand new
-		commandName: self;
-		yourself
+	^ SLCommand named: self
