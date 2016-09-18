@@ -1,5 +1,3 @@
 api
 , aSLElement
-	^ SLUsagePattern new
-		elements: { self . aSLElement } asOrderedCollection;
-		yourself
+	^ self concatenateWith: aSLElement
