@@ -1,3 +1,3 @@
-api
+concatenation
 , aSLElement
 	^ self concatenateWith: aSLElement
