@@ -8,9 +8,9 @@
 	"commentStamp" : "JulienDelplanque 9/5/2016 15:32",
 	"instvars" : [
 		"optionName",
-		"argumentName",
 		"aliases",
-		"description" ],
+		"description",
+		"hasArgument" ],
 	"name" : "SLOption",
 	"pools" : [
 		 ],

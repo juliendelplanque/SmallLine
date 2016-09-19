@@ -1,0 +1,3 @@
+api
+withArgument
+	hasArgument := true

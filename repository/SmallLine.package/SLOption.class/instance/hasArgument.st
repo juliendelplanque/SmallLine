@@ -1,3 +1,3 @@
 testing
 hasArgument
-	^ argumentName isNotNil
+	^ hasArgument

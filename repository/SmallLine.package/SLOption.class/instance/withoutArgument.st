@@ -1,0 +1,3 @@
+api
+withoutArgument
+	hasArgument := false
