@@ -1,0 +1,1 @@
+I define methods for concatenable SLElements.
